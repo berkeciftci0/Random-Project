@@ -1,0 +1,14 @@
+C:\Users\BERKE\Desktop\GünlükProjeler\Hesap Makinesi\bin\Debug\net8.0\Hesap Makinesi.exe
+C:\Users\BERKE\Desktop\GünlükProjeler\Hesap Makinesi\bin\Debug\net8.0\Hesap Makinesi.deps.json
+C:\Users\BERKE\Desktop\GünlükProjeler\Hesap Makinesi\bin\Debug\net8.0\Hesap Makinesi.runtimeconfig.json
+C:\Users\BERKE\Desktop\GünlükProjeler\Hesap Makinesi\bin\Debug\net8.0\Hesap Makinesi.dll
+C:\Users\BERKE\Desktop\GünlükProjeler\Hesap Makinesi\bin\Debug\net8.0\Hesap Makinesi.pdb
+C:\Users\BERKE\Desktop\GünlükProjeler\Hesap Makinesi\obj\Debug\net8.0\Hesap Makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKE\Desktop\GünlükProjeler\Hesap Makinesi\obj\Debug\net8.0\Hesap Makinesi.AssemblyInfoInputs.cache
+C:\Users\BERKE\Desktop\GünlükProjeler\Hesap Makinesi\obj\Debug\net8.0\Hesap Makinesi.AssemblyInfo.cs
+C:\Users\BERKE\Desktop\GünlükProjeler\Hesap Makinesi\obj\Debug\net8.0\Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\BERKE\Desktop\GünlükProjeler\Hesap Makinesi\obj\Debug\net8.0\Hesap Makinesi.dll
+C:\Users\BERKE\Desktop\GünlükProjeler\Hesap Makinesi\obj\Debug\net8.0\refint\Hesap Makinesi.dll
+C:\Users\BERKE\Desktop\GünlükProjeler\Hesap Makinesi\obj\Debug\net8.0\Hesap Makinesi.pdb
+C:\Users\BERKE\Desktop\GünlükProjeler\Hesap Makinesi\obj\Debug\net8.0\Hesap Makinesi.genruntimeconfig.cache
+C:\Users\BERKE\Desktop\GünlükProjeler\Hesap Makinesi\obj\Debug\net8.0\ref\Hesap Makinesi.dll
